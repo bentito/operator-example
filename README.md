@@ -1,3 +1,8 @@
+See CRC notes at the end of the Readme, that's the new thing.
+
+This example was derived from reading this blog post:
+https://www.instana.com/blog/writing-a-kubernetes-operator-in-java-part-1/
+
 # operator-example project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
